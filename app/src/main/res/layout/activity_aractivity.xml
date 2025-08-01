@@ -23,8 +23,8 @@
         android:textColor="#FFFFFF"
         android:textSize="14sp"
         android:padding="12dp"
-        android:visibility="gone"
         android:layout_gravity="top"
-        android:text="Model Info goes here" />
+        android:text="Tap on the ground to place drill marker"
+        />
 
 </FrameLayout>

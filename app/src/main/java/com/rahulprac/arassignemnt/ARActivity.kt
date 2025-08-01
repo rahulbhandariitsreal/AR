@@ -39,8 +39,8 @@ class ARActivity : AppCompatActivity() {
         sceneView = findViewById<ArSceneView?>(R.id.sceneview).apply {
             this.lightEstimationMode = Config.LightEstimationMode.DISABLED
         }
+
         infoTextView=findViewById(R.id.floatingTextView)
-        infoTextView.visibility=View.GONE
 
 
 
@@ -82,7 +82,6 @@ class ARActivity : AppCompatActivity() {
         • ${drillTip ?: ""}
     """.trimIndent()
         infoTextView.text = info
-        infoTextView.visibility = View.VISIBLE
 
     }
 

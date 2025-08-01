@@ -27,5 +27,5 @@
 
 or
 Directly Download apk from this link
-https://drive.google.com/file/d/1pKxAKsOtE9dCBM7ZveZq30GFv94ouBLy/view?usp=sharing
+https://drive.google.com/file/d/1eQ_qguk2UQRUamSaEKTukfLQQrURh33j/view?usp=sharing
 
