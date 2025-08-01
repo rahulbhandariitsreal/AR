@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+        <io.github.sceneview.ar.ArSceneView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/sceneview"
+            />
+
+
+
+    <TextView
+        android:id="@+id/floatingTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#DD000000"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:padding="12dp"
+        android:visibility="gone"
+        android:layout_gravity="top"
+        android:text="Model Info goes here" />
+
+</FrameLayout>
