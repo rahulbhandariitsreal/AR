@@ -2,10 +2,10 @@
 
 
 ## NOTE
--If you are using JetPack Compose use 2.x version and for xml use 0.10.1 
--Use real device which support Arcore 
--Check your device support ARCore on this webSite (https://developers.google.com/ar/devices)
-An Android AR app built with [SceneView](https://github.com/SceneView/sceneview-android) and ARCore.
+- If you are using JetPack Compose use 2.x version and for xml use 0.10.1 
+- Use real device which support Arcore 
+- Check your device support ARCore on this webSite (https://developers.google.com/ar/devices)
+- An Android AR app built with [SceneView](https://github.com/SceneView/sceneview-android) and ARCore.
 
 ## Features
 - Plane detection
